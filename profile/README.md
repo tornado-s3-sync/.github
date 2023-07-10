@@ -1,12 +1,12 @@
 <img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/78233ca943ed9f1479e52f47dbd2a59b/8b3c809af06924e3532e979aab136275.png">
 
 # Tornado S3 Sync 🌪️
-Welcome to the easiest way to get your local files to your favorite Amazon S3 bucket!
+Welcome to the easiest way to get your local files to your favorite S3-Compatible object storage provider!
 
 ---
 
 ## 👋 Introduction
-There are a _LOT_ of options when it comes to getting your data from a local machine to your favorite Amazon S3 bucket. The Tornado S3 Sync project is, admittedly, another one of those options. However, rather than aim to be _better_, or more feature rich than the other options, Tornado S3 Sync aims to be a _simple_, _elegant_, _set-and-forget_ tool to keep your files backed up safely and securely. 
+There are a _LOT_ of options when it comes to getting your data from a local machine to your S3-compatible object storage provider. The Tornado S3 Sync project is, admittedly, another one of those options. However, rather than aim to be _better_, or more feature rich than the other options, Tornado S3 Sync aims to be a _simple_, _elegant_, _set-and-forget_ tool to keep your files synced up to your object storage provider of choice in a safe and secure manner. 
 
 ---
 
